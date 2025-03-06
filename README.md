@@ -436,34 +436,60 @@ With data-driven insights, businesses can:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 Microsoft Dashboard in a Day - Manufacturer Analysis
-📌 Project Overview
-This project is part of Microsoft’s "Dashboard in a Day" (DIAD) workshop, designed to help users learn Power BI by building an interactive dashboard. The dataset focuses on VanArsdel, Ltd., providing a Manufacturer Analysis with insights into revenue trends, country-wise revenue distribution, segment performance, and year-over-year growth.
+# 📊 Microsoft Dashboard in a Day - Manufacturer Analysis  
 
-🛠 Features
-🔹 Revenue & Growth Insights
-Displays total revenue and percentage growth over the years.
+## 📌 Project Overview  
+This project is part of Microsoft’s **"Dashboard in a Day" (DIAD)** workshop, designed to help users learn **Power BI** by building an **interactive dashboard**. The dataset focuses on **VanArsdel, Ltd.**, providing a **Manufacturer Analysis** with insights into **revenue trends, country-wise revenue distribution, segment performance, and year-over-year growth**.  
 
-🔹 Country-wise Revenue Breakdown
-Highlights revenue contributions from different countries.
+## 🛠 Features  
+### 🔹 Revenue & Growth Insights  
+Displays **total revenue and percentage growth** over the years.  
 
-🔹 Segment Analysis
-Analyzes revenue performance across different business segments.
+### 🔹 Country-wise Revenue Breakdown  
+Highlights **revenue contributions** from different countries.  
 
-🔹 Yearly Revenue & Growth Trends
-Visualizes revenue and percentage growth trends over time.
+### 🔹 Segment Analysis  
+Analyzes **revenue performance** across different business segments.  
 
-🔹 Interactive Controls
-Users can filter data based on years and revenue categories.
+### 🔹 Yearly Revenue & Growth Trends  
+Visualizes **revenue and percentage growth trends** over time.  
 
-📈 Key Insights
-Total Revenue: ₹1.28bn
-Top Revenue-Contributing Country: 🇺🇸 USA (52.33% of total revenue)
-Lowest Revenue-Contributing Country: 🇨🇦 Canada
-Growth Trend: Significant increase until 2014, followed by a decline from 2015 to 2021.
-Segment Performance: Convenience segment has the highest revenue share (₹60,60,27,372.71).
+### 🔹 Interactive Controls  
+Users can **filter data** based on years and revenue categories.  
+
+## 📈 Key Insights  
+- **Total Revenue:** ₹1.28bn  
+- **Top Revenue-Contributing Country:** 🇺🇸 **USA (52.33% of total revenue)**  
+- **Lowest Revenue-Contributing Country:** 🇨🇦 **Canada**  
+- **Growth Trend:** Significant increase until **2014**, followed by a **decline from 2015 to 2021**.  
+- **Segment Performance:** **Convenience** segment has the **highest revenue share (₹60,60,27,372.71)**.  
+
+## 📂 Files  
+- **dashboard.pbix** - Power BI file with the complete dashboard.  
+- **dashboard_screenshot.png** - Screenshot of the dashboard.  
+- **README.md** - Documentation for the project.  
+
+## 🚀 How to Use  
+1. **Open** the `.pbix` file in **Power BI Desktop**.  
+2. **Explore** interactive visuals and filter data based on your requirements.  
+3. **Analyze** key trends and insights for **VanArsdel, Ltd.**  
+
+## 📌 Technologies Used  
+- **Power BI** for data visualization  
+- **DAX** for calculations and measures  
+- **Excel/CSV** as data source (if applicable)  
+
+## 📚 About Microsoft’s Dashboard in a Day (DIAD)  
+**Dashboard in a Day (DIAD)** is a free **hands-on workshop** by Microsoft, designed to help users learn **Power BI** through practical exercises. The workshop covers:  
+- **Data transformation and modeling**  
+- **Building interactive reports**  
+- **Using DAX for calculations**  
+- **Publishing and sharing dashboards**  
+
+For more details, visit: **[Microsoft DIAD](https://powerbi.microsoft.com/en-us/diad/)**  
 
 ![Screenshot 2025-03-06 103851](https://github.com/user-attachments/assets/bb279ef9-09c3-4ce2-8526-4ac07c64e67b)
-
+## 📧 Contact  
+For any **questions or collaboration opportunities**, feel free to reach out! 
 
 
