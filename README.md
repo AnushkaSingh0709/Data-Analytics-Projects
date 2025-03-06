@@ -462,12 +462,7 @@ Users can **filter data** based on years and revenue categories.
 - **Top Revenue-Contributing Country:** 🇺🇸 **USA (52.33% of total revenue)**  
 - **Lowest Revenue-Contributing Country:** 🇨🇦 **Canada**  
 - **Growth Trend:** Significant increase until **2014**, followed by a **decline from 2015 to 2021**.  
-- **Segment Performance:** **Convenience** segment has the **highest revenue share (₹60,60,27,372.71)**.  
-
-## 📂 Files  
-- **dashboard.pbix** - Power BI file with the complete dashboard.  
-- **dashboard_screenshot.png** - Screenshot of the dashboard.  
-- **README.md** - Documentation for the project.  
+- **Segment Performance:** **Convenience** segment has the **highest revenue share (₹60,60,27,372.71)**.    
 
 ## 🚀 How to Use  
 1. **Open** the `.pbix` file in **Power BI Desktop**.  
