@@ -49,6 +49,46 @@ This dashboard provides a data-driven view of Adidas’ sales trends, helping st
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+📊 Customer Feedback Dashboard
+🏨 Hotel Customer Feedback Analysis
+Developed during ICT training in collaboration with Honeywell
+
+🚀 Overview
+The Customer Feedback Dashboard provides insights into guest experiences, preferences, and feedback trends. It helps hotel management understand customer satisfaction, service quality, and areas of improvement using real-time data visualization.
+
+📌 Features
+✅ Key Performance Metrics
+
+Net Promoter Score (NPS%): 35.88%
+Recommendation Rate: 62.22%
+Average Customer Rating: ⭐ 3.60/5
+✅ Guest Behavior & Experience Analysis
+
+Purpose of Visit: Business (42.51%), Vacation (35.57%), Functions (14.99%)
+Overall Experience by Room Service
+Top 5 Locations by Guest Visits
+✅ Demographics & Discovery Channels
+
+Gender Distribution: 56.26% Male, 43.74% Female
+How Guests Discovered the Hotel (e.g., Organizations, Word of Mouth, Hotel Booking Sites)
+Source Trends Over Time
+✅ Interactive Visualizations
+
+Time-based trends (2020-2022)
+Geographical guest distribution (India map)
+🛠️ Technologies Used
+Power BI / Tableau (for data visualization)
+Excel (for data processing)
+
+📈 Insights & Business Impact
+Identify key factors influencing customer satisfaction
+Improve marketing strategies by analyzing guest discovery sources
+Enhance room service quality based on feedback trends
+Strengthen regional hotel strategies based on guest location data
+![Screenshot 2025-03-06 091541](https://github.com/user-attachments/assets/d20a4015-5c7f-4545-8aa0-190125e17ce1)
+
+----------------------------------------------------------------------------------------------------------------------
+
 
 
 
